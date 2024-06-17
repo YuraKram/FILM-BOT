@@ -25,9 +25,7 @@ Telegram бот DoranimeBot <img src="https://media.tenor.com/9ZsRZ-PXPlwAAAAi/t
 
 Примеры работы бота показаны на скриншотах.
 
-<img width="200px" src="img/photo1718557251.jpeg" alt="qr"/> &nbsp; &nbsp;  <img width="200px" src="img/photo1718557273.jpeg" alt="qr"/> 
-
-<img width="200px" src="img/photo1718557290.jpeg" alt="qr"/> &nbsp; &nbsp;  <img width="200px" src="img/photo1718557376.jpeg" alt="qr"/> 
+<img width="200px" src="img/photo1718557251.jpeg" alt="qr"/> &nbsp; &nbsp;  <img width="200px" src="img/photo1718557273.jpeg" alt="qr"/> &nbsp; &nbsp; <img width="200px"src="img/photo1718557290.jpeg" alt="qr"/> &nbsp; &nbsp;  <img width="200px" src="img/photo1718557376.jpeg" alt="qr"/> 
 
 <img width="200px" src="img/photo1718557427.jpeg" alt="qr"/> &nbsp; &nbsp;  <img width="200px" src="img/photo1718557461.jpeg" alt="qr"/> 
 
